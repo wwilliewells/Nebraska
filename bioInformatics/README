@@ -1,0 +1,5 @@
+Makefile: Running "make" builds the executable neighborJoin, running make clean removes all .o files and the executable.
+
+Input: No changes or additions to the given input (treedata.txt).
+Output: A file named tree1.txt is generated.
+Source: The source file is named joinNeighbor.cpp, matrix.cpp is included as well as an include folder with respective header files. 
