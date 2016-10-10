@@ -2,6 +2,7 @@
 This directory contains projects and papers worked on during my Masters that are not related to my Masters Defense.
 
 Courses Taken:
+
   Bioinformatics -- to learn about Hidden Markov Models
   
   Graph Algorithms -- to meet theory breadth requirement
